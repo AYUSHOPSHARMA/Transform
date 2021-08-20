@@ -1,0 +1,7 @@
+com\extension\demo\springboot\ActivatorCore.class
+com\extension\demo\springboot\api\CalculatorService.class
+com\extension\demo\springboot\extension\CoreExtension.class
+com\extension\demo\springboot\controller\ControllerConfig.class
+com\extension\demo\springboot\api\impl\AddService.class
+com\extension\demo\springboot\controller\CalculatorController.class
+com\extension\demo\springboot\CoreConfig.class
